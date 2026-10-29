@@ -1,0 +1,1 @@
+{"name":"Signos Vitales ESP32","short_name":"Signos Vitales","description":"Aplicación instalable para el prototipo educativo de signos vitales.","start_url":"./","scope":"./","display":"standalone","background_color":"#0f172a","theme_color":"#0f172a","icons":[{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
